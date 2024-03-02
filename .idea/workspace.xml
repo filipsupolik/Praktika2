@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7cd27d3-8e6e-4638-903f-4dfe375fb74e" name="Changes" comment="Zaklad pre cv1 z predmetu praktika z programovania">
+    <list default="true" id="d7cd27d3-8e6e-4638-903f-4dfe375fb74e" name="Changes" comment="Class Trieda je hotova a funkcna">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cv1/src/Trieda.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cv1/src/Trieda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Student - praktika.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Student - praktika.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cv1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cv1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cv1/src/Skola.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cv1/src/Skola.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,20 @@
       <recent name="C:\Users\FILIP\Documents\Informatika\Inf1\kod\Semestralky\Student - praktika\Cv1" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Student - praktika" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709332775642</updated>
       <workItem from="1709332777276" duration="4194000" />
-      <workItem from="1709371469965" duration="2340000" />
+      <workItem from="1709371469965" duration="4256000" />
     </task>
     <task id="LOCAL-00001" summary="Zaklad pre cv1 z predmetu praktika z programovania">
       <created>1709336838000</created>
@@ -72,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709336972465</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Class Trieda je hotova a funkcna">
+      <created>1709373895213</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709373895213</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Zaklad pre cv1 z predmetu praktika z programovania" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zaklad pre cv1 z predmetu praktika z programovania" />
+    <MESSAGE value="Class Trieda je hotova a funkcna" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Trieda je hotova a funkcna" />
   </component>
 </project>

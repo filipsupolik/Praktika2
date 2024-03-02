@@ -17,5 +17,8 @@ public class Main {
         trieda1.pridatStudenta(student1);
         trieda.pridatStudenta("Igor", "Slniecko", "25728/3396", 2);
         trieda1.pridatStudenta("Jakub", "Slniecko", "25745/3320", 1);
+        skola.vypisTried();
+        skola.vypisUcitelov();
+        skola.vypisVsetko();
     }
 }
