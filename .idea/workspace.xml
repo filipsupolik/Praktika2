@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7cd27d3-8e6e-4638-903f-4dfe375fb74e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student - praktika.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Skola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trieda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ucitel.java" afterDir="false" />
+    <list default="true" id="d7cd27d3-8e6e-4638-903f-4dfe375fb74e" name="Changes" comment="Zaklad pre cv1 z predmetu praktika z programovania">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cv1/src/Trieda.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cv1/src/Trieda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student - praktika.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Student - praktika.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +35,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/FILIP/Documents/Informatika/Inf1/kod/Semestralky/Student - praktika"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\FILIP\Documents\Informatika\Inf1\kod\Semestralky\Student - praktika\Cv1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,8 +55,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709332775642</updated>
-      <workItem from="1709332777276" duration="4011000" />
+      <workItem from="1709332777276" duration="4194000" />
+      <workItem from="1709371469965" duration="2340000" />
     </task>
+    <task id="LOCAL-00001" summary="Zaklad pre cv1 z predmetu praktika z programovania">
+      <created>1709336838000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709336838000</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Zaklad pre cv1 z predmetu praktika z programovania">
+      <created>1709336972465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709336972465</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Zaklad pre cv1 z predmetu praktika z programovania" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zaklad pre cv1 z predmetu praktika z programovania" />
   </component>
 </project>
